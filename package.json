@@ -1,0 +1,13 @@
+{
+  "name": "hackerrank-euler",
+  "version": "1.0.0",
+  "description": "running Hacker rank Project Euler Tasks locally",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Attila Gal",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
