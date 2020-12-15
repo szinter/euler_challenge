@@ -2,6 +2,7 @@ module.exports = {
     squareDiff
 }
 
+
 function squareDiff(n) {
     return Math.abs(getAddedSqueres(n) - getFsquers(n));
 }

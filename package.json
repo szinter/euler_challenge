@@ -4,10 +4,12 @@
   "description": "running Hacker rank Project Euler Tasks locally",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node generate.js"
   },
   "author": "Attila Gal",
   "license": "ISC",
   "dependencies": {
+    "generate-template-files": "^3.0.0"
   }
 }
