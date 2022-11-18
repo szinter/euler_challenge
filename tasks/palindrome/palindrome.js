@@ -37,6 +37,8 @@ function shortPalindrome(s) {
 
   i = a => (d=a.length, f=parseInt) && !a || !(f(a[0]) - f(a[d-1])) && b(a.substr(1, d-2))
   
+  xxx=e=>(a=e.replace(/\W/g,''),d=a.length,f=parseInt)&&!a||!(f(a[0],36)-f(a[d-1],36))&&XXX(a.substr(1,d-2))
+  
 
   return u;
 }
